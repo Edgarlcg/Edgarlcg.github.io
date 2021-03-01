@@ -1,0 +1,38 @@
+---
+title: "Edgar Leal"
+image: "Edgar.png"
+links:
+
+  - label: GitHub
+    url: "https://github.com/Edgarlcg/"
+  - label: Email
+    url: "mailto:jlealriv@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Edgar Leal studies Genomics with main interests in personalized medicine, Oncogenomics, Immunology, Dermatopathology, Neurosciences, Developmental Biology and Biomedicine. He has been in some internships at IBt and INMEGEN, studying the role of CD43 in chromatin remodeling and curate a pipeline of genomic analysis for a panel of samples of patients with pediatric cancer.
+
+Member of the Commission of  Equity and Gender (CEGEN) of the Genomic Sciences Center
+
+
+## Education
+
+**Genomic Science Center, Institute of Biotechnology UNAM** | Cuernavaca, Morelos
+
+BSc IN GENOMIC SCIENCES   | August 2019 - Present
+
+**Faculty of Higher Education (FES) “Iztacala”, UNAM** | Tlalnepantla, Mexico
+
+MD. MEDICAL SURGEON CAREER | August 2017 - June 2019
+
+**ENP9, UNAM** | CDMX
+SPECIALIZED TECHNICAL STUDIES “ASSISTANT NUTRITIONIST”
+
+## Experience
+
+**IBt** | Research Internship | January 2020 - Present
+
+**INMEGEN** | Research Internship | November 2020 - Present
