@@ -13,7 +13,8 @@ output:
  
 ## Bio
 
-Edgar Leal studies Genomics with main interests in personalized medicine, Oncogenomics, Immunology, Dermatopathology, Neurosciences, Developmental Biology and Biomedicine. He has been in some internships at IBt and INMEGEN, studying the role of CD43 in chromatin remodeling and curate a pipeline of genomic analysis for a panel of samples of patients with pediatric cancer.
+Edgar Leal 
+I study Genomics with main interests in personalized medicine, Oncogenomics, Immunology, Dermatopathology, and Biomedicine. I have been in some internships at IBt and INMEGEN, studying the role of CD43 in chromatin remodeling and curate a pipeline of genomic analysis for a panel of samples of patients with pediatric cancer.
 
 Member of the Commission of  Equity and Gender (CEGEN) of the Genomic Sciences Center
 
