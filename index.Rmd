@@ -14,7 +14,7 @@ output:
 ## Bio
 
 Edgar Leal 
-I study Genomics with main interests in personalized medicine, Oncogenomics, Immunology, Dermatopathology, and Biomedicine. I have been in some internships at IBt and INMEGEN, studying the role of CD43 in chromatin remodeling and curate a pipeline of genomic analysis for a panel of samples of patients with pediatric cancer.
+I am studying a master's in Cancer, aging, and rejuvenation, with main interests in personalized medicine, Oncogenomics, Immunology, and Dermatopathology. I have done some internships at Oslo University Hospital for single-cell drug response prediction in breast cancer cell lines and, at BCRG for multiple myeloma patient samples.
 
 Member of the Commission of  Equity and Gender (CEGEN) of the Genomic Sciences Center
 
@@ -23,7 +23,10 @@ Member of the Commission of  Equity and Gender (CEGEN) of the Genomic Sciences C
 
 **Genomic Science Center, Institute of Biotechnology UNAM** | Cuernavaca, Morelos
 
-BSc IN GENOMIC SCIENCES   | August 2019 - Present
+BSc IN GENOMIC SCIENCES   | August 2019 - June 2023
+
+**CARe, University of Toulouse** | Toulouse, France 
+M.Sc. IN CANCER, AGING, AND REJUVENATION   |  September 2024  -  currently
 
 **Faculty of Higher Education (FES) “Iztacala”, UNAM** | Tlalnepantla, Mexico
 
@@ -34,6 +37,6 @@ SPECIALIZED TECHNICAL STUDIES “ASSISTANT NUTRITIONIST”
 
 ## Experience
 
-**IBt** | Research Internship | January 2020 - Present
+**Oslo University Hospital** | Research Internship | September 2022 - March 2023
 
-**INMEGEN** | Research Internship | November 2020 - Present
+**BCRG** | Research Internship | September 2023 - May 2024
